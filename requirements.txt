@@ -1,0 +1,7 @@
+streamlit==1.53.1 
+numpy 
+sentence-transformers==5.2.1
+openai==2.15.0 
+gdown==5.2.1 
+matplotlib 
+pandas
